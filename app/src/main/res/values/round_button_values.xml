@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="round_button_radius">14dp</dimen>
+    <color name="round_button_color_default">#FFFFFFFF</color>
+    <color name="round_button_color_pressed">#CCFFFFFF</color>
+</resources>
